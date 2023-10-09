@@ -329,7 +329,7 @@ function Form() {
     <div>
       <section className="text-gray-600 body-font">
         <main>
-          <Carousel responsive={responsive}>
+          <Carousel responsive={responsive} arrows={true}>
             <div>
               <div className="flex flex-col text-center w-full mb-12">
                 <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">
